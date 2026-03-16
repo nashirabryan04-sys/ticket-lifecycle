@@ -30,10 +30,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="(https://github.com/user-attachments/assets/11f853a6-3a31-4885-8935-f2d28414e768)"/>
+  
 </p> 
 A client's mobile banking system is down. A ticket will be created by entering basic contact information and the reason for the ticket.
 <p>
+![IMG_7192]
 
 </p>
 <br />
