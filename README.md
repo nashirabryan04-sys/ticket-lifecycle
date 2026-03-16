@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p> 
 A client's mobile banking system is down. A ticket will be created by entering basic contact information and the reason for the ticket.
 <p>
-![image alt](https://github.com/user-attachments/assets/41502156-7bf3-4b89-865c-47635ccdf809)
+![image alt](https://github-production-user-asset-6210df.s3.amazonaws.com/265379878/564157929-41502156-7bf3-4b89-865c-47635ccdf809.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T133508Z&X-Amz-Expires=300&X-Amz-Signature=91110a7db9a9d0a6430fc937520281e9e08d7c25440233ba87d3054d371b215b&X-Amz-SignedHeaders=host)
 
 
 </p>
