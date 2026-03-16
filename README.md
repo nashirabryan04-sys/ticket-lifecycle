@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p> 
 A client's mobile banking system is down. A ticket will be created by entering basic contact information and the reason for the ticket.
 <p>
-![IMG_7192]
+
 
 </p>
 <br />
