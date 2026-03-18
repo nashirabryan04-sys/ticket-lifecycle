@@ -37,14 +37,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 ![image alt](https://github.com/nashirabryan04-sys/ticket-lifecycle/blob/88f3fd0e5417183e0d64f9afb64bba0bdd081349/IMG_7192%20(2).jpeg)
-
-</p>A client's mobile banking system is down. A support ticket is going to be created by entering basic contact information and reason for the request.
-<br />
-
-<p>Sarah from Marketing reported that her computer screen has been flickering and freezing when opening programs, making it hard to work. The support team has followed up and noted that the issue has been happening for two days and occurs on both her laptop screen and an external monitor.
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Sarah from Marketing reported that her computer screen has been flickering and freezing when opening programs, making it hard to work. The support team has followed up and noted that the issue has been happening for two days and occurs on both her laptop screen and an external monitor.
+</p>
+</p>
+</p>
+</p>
+</p> This is a demonstration of the process of creating a support ticket. A  ticket is going to be created by entering basic contact information and reason for the request. Currently a client's mobile banking system is down.
+<br />
+</p>
+</p>
+</p>
+</p>
+
+![image alt](https://github.com/nashirabryan04-sys/ticket-lifecycle/blob/1175e0417dadcf22704bfb417c21d8dbc35eb3c9/IMG_0393.jpeg)
+
+</p>
+</p>
+</p>
+</p>
+</p>
+<p>This is a demonstration of an employee receiving the ticket and inquiring about it. Sarah reported that her computer screen has been flickering and freezing when opening programs, making it hard to work. The support team followed up and noted that the issue has been happening for two days and occurs on both her laptop screen and another monitor.
+</p>
+</p>
+</p>
+</p>
+</p>
+
+</p>
+</p>
 
 <br />
 
