@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image alt](https://github.com/nashirabryan04-sys/ticket-lifecycle/blob/88f3fd0e5417183e0d64f9afb64bba0bdd081349/IMG_7192%20(2).jpeg)
 
-</p>A client's mobile banking system is down. A support ticket is going to be created by enterin
+</p>A client's mobile banking system is down. A support ticket is going to be created by entering basic contact information and reason for the request.
 <br />
 
 <p>
