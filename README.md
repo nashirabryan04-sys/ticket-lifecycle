@@ -41,12 +41,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>A client's mobile banking system is down. A support ticket is going to be created by entering basic contact information and reason for the request.
 <br />
 
-<p>
+<p>Sarah from Marketing reported that her computer screen has been flickering and freezing when opening programs, making it hard to work. The support team has followed up and noted that the issue has been happening for two days and occurs on both her laptop screen and an external monitor.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<p>Sarah from Marketing reported that her computer screen has been flickering and freezing when opening programs, making it hard to work. The support team has followed up and noted that the issue has been happening for two days and occurs on both her laptop screen and an external monitor.
+
 <br />
 
 <p>
